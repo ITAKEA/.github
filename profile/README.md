@@ -1,6 +1,9 @@
 # Ita på kea 👋
 ## Materiale til SWA og Cloud fagene på 3. semester på ITA uddannelsen på KEA 
 
+Intro demo projekt kan findes under denne organisation 
+* https://github.com/ITAdemoIntroMicroservicesApllication
+
 <!--
 
 **Here are some ideas to get you started:**
