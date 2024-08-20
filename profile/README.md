@@ -1,4 +1,4 @@
-# Ita på kea 👋
+# Ita på kea 3. semester👋
 ## Materiale til SWA og Cloud fagene på 3. semester på ITA uddannelsen på KEA 
 
 Intro demo projekt kan findes under denne organisation 
